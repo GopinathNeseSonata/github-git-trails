@@ -7,6 +7,6 @@
 <title>Hello GIT</title>
 </head>
 <body>
-
+<h1>Welcome to Git tutorials</h1>
 </body>
 </html>
