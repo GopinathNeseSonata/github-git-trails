@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+D:\github-git-trails\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3371699438.index
+4197132523.index
+3305708272.index
+3556302136.index
+484104369.index
+87871266.index
